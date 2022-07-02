@@ -1,0 +1,2 @@
+# FactionModule:getSearchQuery()
+

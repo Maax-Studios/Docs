@@ -1,28 +1,39 @@
 # Table of contents
 
-* [What is MyProduct?](README.md)
+## Setup
 
-## Guides
+* [Dowload](README.md)
+* [Install](setup/install.md)
+* [Config](setup/config.md)
+* [Update](setup/update.md)
 
-* [Creating your first project](guides/creating-your-first-project.md)
-* [Creating your first task](guides/creating-your-first-task.md)
-* [Advanced permissions](guides/advanced-permissions.md)
+## Development
 
-## Fundamentals
+* [Create a module](development/create-a-module.md)
+* [Language config](development/language-config.md)
+* [Core modules](development/core-modules.md)
 
-* [Projects](fundamentals/projects.md)
-* [Members](fundamentals/members.md)
-* [Task Lists](fundamentals/task-lists.md)
-* [Tasks](fundamentals/tasks.md)
+## Default API
 
-## Use Cases
-
-* [For Designers](use-cases/for-designers/README.md)
-  * [Figma Integration](use-cases/for-designers/figma-integration.md)
-* [For Engineers](use-cases/for-engineers/README.md)
-  * [GitHub Integration](use-cases/for-engineers/github-integration.md)
-* [For Support](use-cases/for-support/README.md)
-  * [Intercom Integration](use-cases/for-support/intercom-integration.md)
+* [Factions](default-api/factions/README.md)
+  * [FactionModule:deleteFaction()](default-api/factions/factionmodule-deletefaction.md)
+  * [FactionModule:updateFaction()](default-api/factions/factionmodule-updatefaction.md)
+  * [FactionModule:getSearchQuery()](default-api/factions/factionmodule-getsearchquery.md)
+  * [FactionModule:getFactions()](default-api/factions/factionmodule-getfactions.md)
+  * [FactionModule:createFaction()](default-api/factions/factionmodule-createfaction.md)
+  * [FactionModule:getIdbyName()](default-api/factions/factionmodule-getidbyname.md)
+  * [FactionModule:getNamebyId()](default-api/factions/factionmodule-getnamebyid.md)
+  * [FactionModule:getDefault()](default-api/factions/factionmodule-getdefault.md)
+  * [FactionModule:deleteRank()](default-api/factions/factionmodule-deleterank.md)
+  * [FactionMoudle:createRank()](default-api/factions/factionmoudle-createrank.md)
+  * [FactionModule:getRank()](default-api/factions/factionmodule-getrank.md)
+  * [FactionModule:getRanks()](default-api/factions/factionmodule-getranks.md)
+  * [FactionModule:updateRank()](default-api/factions/factionmodule-updaterank.md)
+  * [FactionModule:getDefaultRank()](default-api/factions/factionmodule-getdefaultrank.md)
+* [For Engineers](default-api/for-engineers/README.md)
+  * [GitHub Integration](default-api/for-engineers/github-integration.md)
+* [For Support](default-api/for-support/README.md)
+  * [Intercom Integration](default-api/for-support/intercom-integration.md)
 
 ## Extras
 

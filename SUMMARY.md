@@ -15,6 +15,7 @@
 
 ## Default API
 
+* [SQL](default-api/sql.md)
 * [Factions](use-cases/for-designers/README.md)
   * [Networking](default-api/factions/networking.md)
   * [FactionModule:deleteFaction()](default-api/factions/factionmodule-deletefaction.md)

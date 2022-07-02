@@ -21,3 +21,9 @@ InventoryModule:GetLimit(„user“)
     Returns the limit
 {% endtab %}
 {% endtabs %}
+
+### <mark style="color:blue;">Config</mark>
+
+{% content-ref url="../../setup/config/inventory.md" %}
+[inventory.md](../../setup/config/inventory.md)
+{% endcontent-ref %}

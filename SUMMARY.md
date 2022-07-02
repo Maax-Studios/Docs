@@ -31,8 +31,8 @@
   * [FactionModule:getRanks()](default-api/factions/factionmodule-getranks.md)
   * [FactionModule:updateRank()](default-api/factions/factionmodule-updaterank.md)
   * [FactionModule:getDefaultRank()](use-cases/for-designers/figma-integration.md)
-* [Inventory](default-api/inventory/README.md)
-  * [PLAYER:SetupInventory()](default-api/inventory/player-setupinventory.md)
+* [Inventory](use-cases/for-engineers/README.md)
+  * [PLAYER:SetupInventory()](use-cases/for-engineers/github-integration.md)
 * [For Support](use-cases/for-support/README.md)
   * [Intercom Integration](use-cases/for-support/intercom-integration.md)
 

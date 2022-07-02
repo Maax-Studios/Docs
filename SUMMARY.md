@@ -13,6 +13,11 @@
 * [Language System](fundamentals/members.md)
 * [Core modules](fundamentals/task-lists.md)
 
+## Data managment
+
+* [Export](data-managment/export.md)
+* [Import](data-managment/import.md)
+
 ## Default API
 
 * [SQL](default-api/sql.md)
@@ -34,13 +39,9 @@
   * [FactionModule:getDefaultRank()](use-cases/for-designers/figma-integration.md)
 * [Inventory](use-cases/for-engineers/README.md)
   * [CanAddToInventory()](default-api/inventory/canaddtoinventory.md)
+  * [InventoryModule:GetLimit()](default-api/inventory/inventorymodule-getlimit.md)
+  * [PLAYER:GetInventory()](default-api/inventory/player-getinventory.md)
   * [PLAYER:AddToInventory()](default-api/inventory/player-addtoinventory.md)
   * [PLAYER:EquipEntitie()](default-api/inventory/player-equipentitie.md)
   * [PLAYER:EquipWeapon()](default-api/inventory/player-equipweapon.md)
   * [PLAYER:SetupInventory()](use-cases/for-engineers/github-integration.md)
-* [For Support](use-cases/for-support/README.md)
-  * [Intercom Integration](use-cases/for-support/intercom-integration.md)
-
-## Extras
-
-* [Keyboard Shortcuts](extras/keyboard-shortcuts.md)

@@ -32,6 +32,7 @@
   * [FactionModule:updateRank()](default-api/factions/factionmodule-updaterank.md)
   * [FactionModule:getDefaultRank()](use-cases/for-designers/figma-integration.md)
 * [Inventory](use-cases/for-engineers/README.md)
+  * [CanAddToInventory()](default-api/inventory/canaddtoinventory.md)
   * [PLAYER:AddToInventory()](default-api/inventory/player-addtoinventory.md)
   * [PLAYER:EquipEntitie()](default-api/inventory/player-equipentitie.md)
   * [PLAYER:EquipWeapon()](default-api/inventory/player-equipweapon.md)

@@ -6,6 +6,10 @@ description: Here you can find all important information about creating a custom
 
 ### <mark style="color:blue;">Autoload</mark>
 
+{% hint style="warning" %}
+If an folder does not contain an sh\_index.lua file its possible that the the server returns an error.
+{% endhint %}
+
 To improve the simplicitiy of the gamemode we decided to implement an autoloading system for all folders in the module folder.&#x20;
 
 That means that the gamemodes finds all folders containing an **sh\_index.lua** file.&#x20;

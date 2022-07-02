@@ -9,7 +9,7 @@
 
 ## Development
 
-* [Creating a module](development/creating-a-module.md)
+* [Creating a module](fundamentals/projects.md)
 * [Language config](fundamentals/members.md)
 * [Core modules](fundamentals/task-lists.md)
 

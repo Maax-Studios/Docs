@@ -4,8 +4,9 @@
 
 * [Dowload](README.md)
 * [Install](guides/creating-your-first-task.md)
-* [Config](guides/advanced-permissions.md)
 * [Update](setup/update.md)
+* [Config](setup/config/README.md)
+  * [Inventory](setup/config/inventory.md)
 
 ## Development
 

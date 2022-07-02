@@ -1,5 +1,24 @@
-# GitHub Integration
+---
+description: This Function allows you to easily setup an Inventory for a character.
+---
+
+# PLAYER:SetupInventory()
 
 {% hint style="info" %}
-**Good to know:** depending on the product you're building, it can be useful to explicitly document use cases. Got a product that can be used by a bunch of people in different ways? Maybe consider splitting it out!
+**Good to know:** There are no further checks needed to approve that the Inventory is not initialized.
 {% endhint %}
+
+```
+PLAYER:SetupInventory(charid)
+```
+
+{% tabs %}
+{% tab title="Arguments" %}
+*   <mark style="color:blue;">**num**</mark>
+
+    Character Id
+{% endtab %}
+{% endtabs %}
+
+
+

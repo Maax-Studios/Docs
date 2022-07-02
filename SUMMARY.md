@@ -10,7 +10,7 @@
 ## Development
 
 * [Creating a module](fundamentals/projects.md)
-* [Language config](fundamentals/members.md)
+* [Language System](development/language-system.md)
 * [Core modules](fundamentals/task-lists.md)
 
 ## Default API

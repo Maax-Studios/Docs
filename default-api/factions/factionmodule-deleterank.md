@@ -1,2 +1,2 @@
-# FactionModule:deleteRank()
+# 🔵 FactionModule:deleteRank()
 

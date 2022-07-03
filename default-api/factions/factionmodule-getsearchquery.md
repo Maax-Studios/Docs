@@ -1,2 +1,2 @@
-# FactionModule:getSearchQuery()
+# 🔵 FactionModule:getSearchQuery()
 

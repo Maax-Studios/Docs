@@ -1,2 +1,2 @@
-# FactionModule:getFactions()
+# 🔵 FactionModule:getFactions()
 

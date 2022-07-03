@@ -1,2 +1,2 @@
-# FactionModule:getRank()
+# 🔵 FactionModule:getRank()
 

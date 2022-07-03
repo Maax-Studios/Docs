@@ -15,6 +15,7 @@
 * [Information](development/information.md)
 * [Creating a module](fundamentals/projects.md)
 * [Language System](fundamentals/members.md)
+* [Derived Gamemode](development/derived-gamemode.md)
 * [Core modules](fundamentals/task-lists.md)
 
 ## Data managment

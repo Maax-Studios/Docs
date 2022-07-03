@@ -1,4 +1,4 @@
-# PLAYER:GetInventory()
+# 🔵 PLAYER:GetInventory()
 
 {% code title="Example" %}
 ```

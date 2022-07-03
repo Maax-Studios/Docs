@@ -1,4 +1,4 @@
-# CanAddToInventory()
+# 🔵 CanAddToInventory()
 
 ```
 CanAddToInventory(class)

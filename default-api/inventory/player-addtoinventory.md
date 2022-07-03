@@ -1,4 +1,4 @@
-# PLAYER:AddToInventory()
+# 🔵 PLAYER:AddToInventory()
 
 ```lua
 PLAYER:AddToInventory(type, name, model, class, ent)

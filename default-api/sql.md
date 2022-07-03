@@ -1,6 +1,6 @@
 # SQL
 
-## <mark style="color:blue;">SQL:Query()</mark>
+## <mark style="color:blue;"></mark>:blue\_circle: <mark style="color:blue;">SQL:Query()</mark>
 
 {% code title="Function" %}
 ```lua

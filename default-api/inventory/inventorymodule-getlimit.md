@@ -1,4 +1,4 @@
-# InventoryModule:GetLimit()
+# 🔵 InventoryModule:GetLimit()
 
 {% code title="Example" %}
 ```lua

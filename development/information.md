@@ -1,6 +1,6 @@
 # Information
 
-### <mark style="color:blue;">Serverside/</mark>Clientside
+### <mark style="color:blue;">Serverside/Clientside</mark>
 
 * :blue\_circle: - Serverside
 * :yellow\_circle: - Shared (client an serverside)

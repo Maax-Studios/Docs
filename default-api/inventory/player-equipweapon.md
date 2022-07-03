@@ -2,13 +2,7 @@
 description: This Function is used to drop an weapon from the inventory.
 ---
 
-# 🔵 PLAYER:EquipWeapon()
-
-
-
-{% hint style="info" %}
-Class string will be removed in a future update
-{% endhint %}
+# PLAYER:EquipWeapon()
 
 ```lua
 PLAYER:EquipWeapon(index,class)

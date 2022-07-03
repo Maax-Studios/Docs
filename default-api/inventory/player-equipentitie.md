@@ -2,7 +2,11 @@
 description: This Function is used to drop an entitie from the inventory.
 ---
 
-# PLAYER:EquipEntitie()
+# 🔵 PLAYER:EquipEntitie()
+
+{% hint style="info" %}
+Class string will be removed in a future update
+{% endhint %}
 
 ```lua
 PLAYER:EquipEntitie(index,class)

@@ -19,14 +19,6 @@ description: >-
 Name of the language package
 {% endswagger-parameter %}
 
-{% swagger-response status="200: OK" description="" %}
-```javascript
-{
-    // Response
-}
-```
-{% endswagger-response %}
-
 {% swagger-response status="404: Not Found" description="" %}
 ```javascript
 {

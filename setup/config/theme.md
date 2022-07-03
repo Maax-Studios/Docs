@@ -7,7 +7,7 @@ description: The gamemode has an fully configurable theme module
 ### &#x20;<mark style="color:blue;">Default config</mark>
 
 ```
-Config.Font = "Default"
+Config.Font = “Roboto“
 
 Config.Colors = { -- Color config
     ["primary"] = {

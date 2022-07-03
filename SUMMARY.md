@@ -6,6 +6,8 @@
 * [Install](guides/creating-your-first-task.md)
 * [Update](setup/update.md)
 * [Config](guides/advanced-permissions.md)
+  * [MySQL ](setup/config/mysql.md)
+  * [Theme](setup/config/theme.md)
   * [Inventory](setup/config/inventory.md)
 
 ## Development

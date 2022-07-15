@@ -1,16 +1,14 @@
 # Table of contents
 
-* [home](README.md)
-
 ## Setup
 
-* [Dowload](<README (1).md>)
-* [Install](guides/creating-your-first-task.md)
+* [Install](README.md)
 * [Update](setup/update.md)
 * [Config](guides/advanced-permissions.md)
   * [MySQL ](setup/config/mysql.md)
   * [Theme](setup/config/theme.md)
   * [Inventory](setup/config/inventory.md)
+* [Dowload](<README (1).md>)
 
 ## Development
 

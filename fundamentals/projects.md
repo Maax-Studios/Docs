@@ -86,7 +86,6 @@ end
 ```
 {% endcode %}
 
-Here we added a hook an a global table.&#x20;
+Here we added a hook and a table.&#x20;
 
 * The SQLReady hook is called when the gamemode connected to the server.&#x20;
-* The “FactionModule“ Table is a global table in this case mostley used for functions.

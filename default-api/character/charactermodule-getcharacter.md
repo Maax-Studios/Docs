@@ -1,0 +1,3 @@
+# 🔵 CharacterModule:getCharacter()
+
+WIP

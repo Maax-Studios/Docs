@@ -26,6 +26,8 @@
 ## Default API
 
 * [SQL](default-api/sql.md)
+* [Character ](default-api/character/README.md)
+  * [🔵 CharacterModule:getCharacter()](default-api/character/charactermodule-getcharacter.md)
 * [Perma Props](default-api/perma-props/README.md)
   * [🔵 PermaPropsModule:DeleteFromMap()](default-api/perma-props/permapropsmodule-deletefrommap.md)
   * [🔵 PermaPropsModule:DeleteFromDatabase()](default-api/perma-props/permapropsmodule-deletefromdatabase.md)

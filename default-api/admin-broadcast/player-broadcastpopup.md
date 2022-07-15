@@ -17,7 +17,7 @@ PLAYER:broadcastPopup(text)
 ### <mark style="color:blue;">Example</mark>
 
 {% code title="Clientside" %}
-```
+```lua
 concommand.Add(„popup“, function(ply,cmd,args, argString)
 
     net.Start(„ClientBroadcast“)
@@ -29,7 +29,7 @@ end)
 {% endcode %}
 
 {% code title="Serverside" %}
-```
+```lua
 net.Receive("ClientBroadcast", function(_,ply)
 
     for _,i in pairs(player.GetAll()) do 

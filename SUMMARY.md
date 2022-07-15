@@ -1,8 +1,10 @@
 # Table of contents
 
+* [home](README.md)
+
 ## Setup
 
-* [Dowload](README.md)
+* [Dowload](<README (1).md>)
 * [Install](guides/creating-your-first-task.md)
 * [Update](setup/update.md)
 * [Config](guides/advanced-permissions.md)

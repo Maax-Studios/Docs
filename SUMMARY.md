@@ -12,6 +12,7 @@
 
 ## Development
 
+* [Modules](development/modules.md)
 * [Information](development/information.md)
 * [Creating a module](fundamentals/projects.md)
 * [Language System](fundamentals/members.md)

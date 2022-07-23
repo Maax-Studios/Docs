@@ -38,3 +38,4 @@ description: Here you can find a list of all modules.
 * [ ] Radio/Comlink Module
 * [x] Warn System
 * [ ] Import/Export Gamemode data
+* [ ] Webscreens

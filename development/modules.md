@@ -29,7 +29,7 @@ description: Here you can find a list of all modules.
 * [ ] Logging
 * [x] Custom Notifications
 * [x] Custom VGUI
-* [ ] Spawn restrictions (Props,...)
+* [x] Menu restrictions (Spawnmenu/Context)
 * [ ] GExtension/VyHub/... integration
 * [ ] BLogs integration
 * [x] Theme config

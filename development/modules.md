@@ -36,5 +36,5 @@ description: Here you can find a list of all modules.
 * [x] Language Config (German,Englisch,...)
 * [x] Permisson System (Create a Faction or not, ....)
 * [ ] Radio/Comlink Module
-* [ ] Warn System
+* [x] Warn System
 * [ ] Import/Export Gamemode data
